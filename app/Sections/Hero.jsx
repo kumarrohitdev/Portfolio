@@ -3,33 +3,12 @@ import React from "react";
 import { FaFile, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import Wave from "@/app/Components/Hello";
 import Link from "next/link";
-import AnimatedCursor from "react-animated-cursor";
 
 // Hero component
 const Hero = () => {
   return (
     <div className="lg:pt-32 z-10 md:pt-32 pt-[100px] bg-gradient-to-l dark:via-[#0a0a0a] from-[#f5f5f5] to-[#e0e0e0] dark:from-[#292929] dark:to-[#1f1f1f] bg-cover pb-32">
-      <AnimatedCursor
-        innerSize={8}
-        outerSize={8}
-        color="0, 0, 256"
-        outerAlpha={0.6}
-        innerScale={0.7}
-        outerScale={5}
-        clickables={[
-          "a",
-          'input[type="text"]',
-          'input[type="email"]',
-          'input[type="number"]',
-          'input[type="submit"]',
-          'input[type="image"]',
-          "label[for]",
-          "select",
-          "textarea",
-          "button",
-          ".link",
-        ]}
-      />
+      
 
       <div className="border lg:w-[70%] md:w-[75%] w-[90%] text-center backdrop-blur shadow-xl ml-auto mr-auto rounded-md pl-2 pr-2 pb-6 pt-12 dark:bg-gray-900 dark:border-0 dark:shadow-md dark:shadow-white bg-white">
         <Wave />
