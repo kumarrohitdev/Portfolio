@@ -32,7 +32,7 @@ const DrawerComponent = () => {
             <div className="flex justify-normal items-center m-4">
               <Image
                 className="bg-red-500 m-2 rounded-full cursor-pointer border-4 dark:border-white hover:transform hover:scale-110 transition-transform"
-                src="/Logo.Png"
+                src="/Logo.png"
                 width={50}
                 height={50}
                 alt="Logo"
