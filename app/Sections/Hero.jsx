@@ -50,7 +50,7 @@ const Hero = () => {
           <Link
             target="_blank"
             href={
-              "https://drive.google.com/file/d/1G2Yy1SZSjgV27sVy2rrycvI8hPoagfLN/view?usp=sharing"
+              "https://drive.google.com/file/d/1pUBCQdI-rnvB5-bbiJOVWQ6DVGplIQsF/view?usp=sharing"
             }
             className="cursor-pointer hover:transform hover:scale-105 hover:transition-transform hover:brightness-90 lg:text-xl md:text-sm text-xs"
           >
