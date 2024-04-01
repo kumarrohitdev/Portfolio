@@ -9,21 +9,22 @@ const POSTDATA =  [
     },
     
     {
-      id: '2',
+      "id": "2",
       "Title": "React in Web-Dev",
-      "Description": "Designed and developed a cross-platform mobile application using Flutter framework. Implemented intuitive user interfaces and integrated with backend APIs to fetch and display real-time data. Conducted thorough testing and optimization for a smooth user experience.",
-      "Conclusion": "The mobile app gained positive reviews on app stores and achieved high user engagement, contributing to the growth of the client's business.",
-      "Image": "https://res.cloudinary.com/dfyuyadhv/image/upload/v1709716059/pngwing.com_25_lekvbg.png",
+      "Description": "Designed and developed a cross-platform mobile application using Flutter framework. Implemented intuitive user interfaces and integrated with backend APIs to fetch and display real-time data. Conducted thorough testing and optimization for a smooth user experience. Encountered challenges in optimizing app performance across different mobile devices and screen sizes. Overcame these challenges by implementing responsive design principles and utilizing Flutter's flexible layout system.",
+      "Conclusion": "The mobile app gained positive reviews on app stores and achieved high user engagement, contributing to the growth of the client's business. Looking ahead, planning to integrate advanced features such as AI-driven recommendations and real-time chat functionality to further enhance user engagement and retention.",
+      "Image":"https://res.cloudinary.com/dfyuyadhv/image/upload/v1709716059/pngwing.com_25_lekvbg.png",
       "Category": "Mobile App Development"
-    },
+    }
+    ,
     {
-      id: '3',
+      "id": "3",
       "Title": "New Era of Next.js",
       "Description": "Created a data analysis dashboard for visualizing complex datasets. Used technologies such as Python with pandas and Plotly for data processing and visualization. Implemented interactive charts and graphs to provide valuable insights.",
       "Conclusion": "The data analysis dashboard played a crucial role in decision-making by providing clear and actionable insights from large datasets.",
-      "Image": "https://res.cloudinary.com/dfyuyadhv/image/upload/v1709716029/pngwing.com_24_gookve.png",
-      "Category": "Data Science"
-    },
+      "Image": "https://res.cloudinary.com/dfyuyadhv/image/upload/v1709716029/pngwing.com_24_gookve.png"
+    }
+    ,
     {
       id: '4',
       "Title": "React in Web-Dev",
